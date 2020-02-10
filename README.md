@@ -1,3 +1,14 @@
+# Results of DRQA  
+
+Interactive mode running successfully for Document Retrieval
+![Screenshot](Retrieval_interactive.png)  
+
+P@5 scores for Document Reader for SQuAD v1.1 dataset  
+![Screenshot](Retrieval_score.png)  
+
+
+
+
 # DrQA
 This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051).
 
