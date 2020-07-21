@@ -3,7 +3,7 @@
 Interactive mode running successfully for Document Retrieval
 ![Screenshot](Retrieval_interactive.png)  
 
-P@5 scores for Document Reader for SQuAD v1.1 dataset  
+P@5 scores for Document Reader for SQuAD v1.1 dataset. The P@% scores tells how many answers are correct among all answers.
 ![Screenshot](Retrieval_score.png)  
 
 
